@@ -1,0 +1,117 @@
+Forest
+Desert
+Savanna
+Rainforest
+Tundra
+Wetlands
+Swamp
+Marsh
+Bog
+Grassland
+Prairie
+Steppe
+Meadow
+Jungle
+Taiga
+Mangrove
+Coral Reef
+Ocean
+Sea
+Beach
+Coastline
+River
+Lake
+Pond
+Glacier
+Mountain Range
+Valley
+Canyon
+Plateau
+Cliffside
+Island
+Archipelago
+Volcano
+Cave
+Underground
+Urban Cityscape
+Suburb
+Rural Countryside
+Industrial Area
+Farmland
+Parkland
+Garden
+Orchard
+Vineyard
+Graveyard
+Quarry
+Construction Site
+Skyscraper District
+Slum
+Harbor
+Port
+Marina
+Fishing Village
+Resort Town
+Military Base
+Airport
+Space Station
+Barren Wasteland
+Frozen Wasteland
+Dunes
+Salt Flats
+Oasis
+Badlands
+Savannah
+Rainshadow
+Cloud Forest
+Mangrove Swamp
+Delta
+Reservoir
+Mangrove Swamp
+Ghost Town
+Ruins
+Abandoned Factory
+Marketplace
+Bazaar
+Town Square
+Temple Grounds
+Alleyway
+Highway
+Boulevard
+Bridge
+Tunnel
+Train Station
+Bus Depot
+Amusement Park
+Zoo
+Stadium
+Aquarium
+Museum
+Gallery
+Library
+University Campus
+Courtyard
+Palace Grounds
+Castle Keep
+Dungeon
+Fortress
+Citadel
+City Ruins
+Alien Landscape
+Futuristic Metropolis
+Cyberpunk City
+Steampunk District
+Fantasy Forest
+Haunted Forest
+Mystical Grove
+Enchanted Garden
+Floating Islands
+Sky City
+Underwater City
+Crystal Cavern
+Void Realm
+Dark Dimension
+Ethereal Plane
+Dreamscape
+Nightmare Realm
+Post-apocalyptic Wasteland

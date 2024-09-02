@@ -1,0 +1,97 @@
+Soccer
+Basketball
+Baseball
+American Football
+Tennis
+Golf
+Cricket
+Rugby
+Ice Hockey
+Field Hockey
+Volleyball
+Table Tennis
+Badminton
+Boxing
+Wrestling
+Martial Arts
+Mixed Martial Arts
+Swimming
+Track and Field
+Gymnastics
+Cycling
+Skateboarding
+Surfing
+Snowboarding
+Skiing
+Bobsledding
+Figure Skating
+Speed Skating
+Curling
+Rowing
+Canoeing
+Kayaking
+Sailing
+Fishing
+Archery
+Shooting
+Bowling
+Darts
+Fencing
+Judo
+Karate
+Taekwondo
+Sumo Wrestling
+Weightlifting
+Powerlifting
+Bodybuilding
+Equestrian
+Horse Racing
+Polo
+Handball
+Lacrosse
+Softball
+Squash
+Racquetball
+Snooker
+Billiards
+Motorsports
+Formula 1
+NASCAR
+IndyCar
+Rally Racing
+Motocross
+BMX
+Triathlon
+Pentathlon
+Decathlon
+Biathlon
+CrossFit
+Ultimate Frisbee
+Disc Golf
+Pickleball
+Paddle Tennis
+Beach Volleyball
+Water Polo
+Diving
+Synchronized Swimming
+Cheerleading
+Rock Climbing
+Mountaineering
+Bocce
+Petanque
+Kabaddi
+Sepak Takraw
+Cricket
+Gaelic Football
+Hurling
+Australian Rules Football
+Rodeo
+Bull Riding
+Base Jumping
+Paragliding
+Skydiving
+Drone Racing
+Esports
+Sumo Wrestling
+Kiteboarding
+Wind Surfing

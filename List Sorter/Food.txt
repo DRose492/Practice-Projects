@@ -1,0 +1,159 @@
+Pizza
+Burger
+Hot Dog
+Pasta
+Spaghetti
+Lasagna
+Tacos
+Burritos
+Enchiladas
+Quesadilla
+Sushi
+Ramen
+Pho
+Pad Thai
+Fried Rice
+Spring Rolls
+Dim Sum
+Dumplings
+Shawarma
+Falafel
+Hummus
+Tabbouleh
+Curry
+Biryani
+Samosa
+Naan
+Tandoori Chicken
+Kimchi
+Bibimbap
+Gyoza
+Teriyaki Chicken
+Tempura
+Sashimi
+Miso Soup
+Risotto
+Paella
+Tapas
+Goulash
+Sauerbraten
+Bratwurst
+Schnitzel
+Pierogi
+Borscht
+Pelmeni
+Stroganoff
+Ceviche
+Empanadas
+Arepas
+Plantains
+Jerk Chicken
+Mofongo
+Churros
+Flan
+Tres Leches Cake
+Poutine
+Clam Chowder
+Lobster Roll
+Gumbo
+Jambalaya
+Barbecue Ribs
+Fried Chicken
+Mac and Cheese
+Cornbread
+Mashed Potatoes
+Biscuits and Gravy
+Chili
+Pot Roast
+Shepherd's Pie
+Fish and Chips
+Bangers and Mash
+Yorkshire Pudding
+Haggis
+Black Pudding
+Irish Stew
+Scones
+Crumpets
+Pancakes
+Waffles
+French Toast
+Crepes
+Quiche
+Coq au Vin
+Beef Bourguignon
+Bouillabaisse
+Croissant
+Baguette
+Bruschetta
+Focaccia
+Tiramisu
+Gelato
+Cannoli
+Baklava
+Moussaka
+Spanakopita
+Souvlaki
+Dolma
+Kebabs
+Mezze
+Tahini
+Couscous
+Tagine
+Fufu
+Jollof Rice
+Egusi Soup
+Piri Piri Chicken
+Bobotie
+Biltong
+Chakalaka
+Tom Yum Soup
+Green Curry
+Massaman Curry
+Laksa
+Satay
+Nasi Goreng
+Rendang
+Lumpia
+Adobo
+Halo-Halo
+Bibingka
+Tamales
+Pozole
+Mole
+Chimichanga
+Elote
+Guacamole
+Salsa
+Nachos
+Cajeta
+Chimichurri
+Pavlova
+Lamingtons
+Vegemite
+Pav Bhaji
+Dosa
+Idli
+Vindaloo
+Rogan Josh
+Paneer Tikka
+Lassi
+Gulab Jamun
+Kulfi
+Samosas
+Halwa
+Biryani
+Banh Mi
+Pho
+Spring Rolls
+Dim Sum
+Peking Duck
+Mapo Tofu
+Kung Pao Chicken
+Sweet and Sour Pork
+General Tso's Chicken
+Fortune Cookies
+Mooncakes
+Cantonese Roast Duck
+Char Siu
+Congee
+Egg Tart
